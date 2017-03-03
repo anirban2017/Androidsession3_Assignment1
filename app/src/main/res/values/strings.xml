@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Intent1</string>
+    <string name="load_icon_string">Start Parallel Download</string>
+    <string name="ITEM_SEARCH">Search Products Here</string>
+    <string name="enter_text">text changes</string>
+    <string name="show_the_text">COMPUTE</string>
+    <string name="welcome">Welcome</string>
+    <string name="to">To</string>
+    <string name="hello_world">Hello World!!</string>
+    <string name="android">Android</string>
+    <string name="presents">Presents</string>
+
+</resources>
